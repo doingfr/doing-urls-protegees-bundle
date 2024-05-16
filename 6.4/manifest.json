@@ -1,0 +1,5 @@
+{
+    "bundles": {
+        "Tilleuls\\UrlSignerBundle\\TilleulsUrlSignerBundle": ["all"]
+    }
+}
